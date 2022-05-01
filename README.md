@@ -11,5 +11,6 @@
 In this notebook, I’ll be constructing and analyzing an equal-weighted portfolio which will constitute a list of my favorite large-cap tech stocks that I had already screened using various metrics like debt to asset ratio, investor yield, and other metrics
 Then I will use a basic process to find the optimal weighting of the stocks using monte Carlo simulation which I will then compare against certain benchmarks and the equal-weighted portfolio and pick the best one out of the lot
 ## ([view notebook here](https://nbviewer.org/github/mjabubakar22/Tech-Portfolio-Analysis/blob/main/Tech%20Stocks%20Portfolio.ipynb))
-![newplot (1)](https://user-images.githubusercontent.com/80532199/166156125-ba19f90f-1991-4485-bb81-9edce6e5262d.png)
+![newplot (2)](https://user-images.githubusercontent.com/80532199/166159924-2dac06d9-9968-4d8d-98f7-d77a3f8e40e9.png)
+
 
